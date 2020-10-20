@@ -1,0 +1,7 @@
+{
+  "name": "cow-sound",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
